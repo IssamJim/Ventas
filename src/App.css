@@ -1,0 +1,11 @@
+.App {
+  background-image: url("./media/back.jpg");
+}
+
+.Container1{
+  background-image: url("./media/back.jpg");
+}
+
+.Container{
+  justify-content: space-between;
+}
